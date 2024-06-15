@@ -13,9 +13,8 @@ import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
-  CardTitle,
+  CardTitle
 } from "~/components/ui/card";
 import { cn } from "~/lib/utils";
 import { formatMoney, formatThousands } from "~/utils/utils";
